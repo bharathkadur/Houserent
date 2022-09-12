@@ -1,2 +1,1 @@
-# Houserent
-house rent
+# HouseRent
